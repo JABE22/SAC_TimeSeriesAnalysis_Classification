@@ -31,7 +31,7 @@ Approximate running times of the file
 ### Results
 * X: (232, 424)  y: (232,)
 * Train: (185, 424) (185,) Test: (47, 424) (47,)
-* Execution time: ~80 min
+* Execution time: ~80 min (Lenovo Yoga 920-13IKB)
 
 ![results_a](https://raw.githubusercontent.com/JABE22/Image/main/Random/results_datasetup_a.png)
 
