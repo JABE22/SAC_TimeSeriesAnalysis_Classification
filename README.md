@@ -1,5 +1,3 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
-
 ## Sport Activity Classification using Time Series Analysis
 
 Approximate running times of the file
@@ -28,3 +26,9 @@ Approximate running times of the file
 * K-Neighbors Classifier
 * Gradient Boosting Classifier
 * Stochastic Gradient Descent Classifier
+
+
+### Results
+![results_a](https://raw.githubusercontent.com/JABE22/Image/main/Random/results_datasetup_b.png)
+
+![results_b]()
